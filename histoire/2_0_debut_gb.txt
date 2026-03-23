@@ -1,0 +1,17 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+It is 2050, and the new government has hired private researchers across the country to conduct experiments on mice in order to find a cure for diabetes.
+If a cure is found, it will give the state a good image and ensure its longevity, given the current context, which is conducive to revolution. There is a lot of poverty and unemployment.
+You are one of these researchers, working in Calais, in a hospital that is a little way out of town but still takes in some patients.
+Your manager has ordered you to start the experiments, but you know that the stocks of medicine provided by the state are limited due to their low budget.
+All use of materials must be reported and recorded in a digital file that precisely lists each vial used.
+Among the substances at your disposal is a recently synthesized experimental compound:
+SIS-BETA.
+Its origin is unclear. Its potential is immense.
+But its side effects are unknown.
+
+What do you decide to do?
+
+	1: Immediately inject a full dose of SIS-BETA into the mouse, without conducting preliminary tests, in order to save time.
+
+	2: Dilute the SIS-BETA substance and perform a partial injection, while carefully recording the operation in the digital file.

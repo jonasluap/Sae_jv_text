@@ -1,0 +1,31 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+dilute SIS-BETA (partial dose)
+The mouse does not respond.
+You leave.
+A few hours later,
+an employee enters the room.
+The mouse is agitated.
+He opens the cage.
+He tries a tranquilizer
+the mouse bit him
+She escapes.
+The employee is disoriented.
+it collapses
+and die.
+
+a message automatically appears in the digital folder : 
+« Incident controlled. no risk detected. »
+
+sensors no longer report anomaly.
+For a moment,
+everything seems controlled.
+
+what are you going ?
+
+	1  Valid the report
+	
+	2 : Observe silently
+
+
+

@@ -1,0 +1,31 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Vous enregistrez soigneusement l’opération.
+La souris ne réagit pas.
+Vous partez.
+Quelques heures plus tard,
+un employé entre dans la pièce.
+La souris est agitée.
+Il ouvre la cage.
+Il tente un tranquillisant.
+La souris le mord.
+Elle s’échappe.
+L’employé titube.
+S’effondre.
+Meurt.
+
+Un message apparaît automatiquement dans le dossier numérique :
+« Incident maîtrisé. Aucun risque détecté. »
+
+Les capteurs ne signalent plus d’anomalie.
+Pendant un instant,
+tout semble sous contrôle.
+
+Que faites-vous ?
+
+	1 : Valider le rapport
+	
+	2 : Observer sans rien dire
+
+
+

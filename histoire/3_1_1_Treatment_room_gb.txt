@@ -1,0 +1,23 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+La salle de traitement
+	a noise suddenly sounded.
+	glass breaks.
+	You're hiding in a closet
+	Silence.
+	your go out.
+	The floor is covered with broken vials.	
+	the liquids have mixed
+	In the center : a dead mouse.
+	you understand.
+	The blend is a poison.
+	capable of killing mutant mice.
+
+	what are you doing ?
+
+		1 : keep the poison
+
+		2 : Inform yours managers
+
+
+

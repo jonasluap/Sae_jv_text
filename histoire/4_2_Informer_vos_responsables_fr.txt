@@ -1,0 +1,26 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Vous consignez tout dans le dossier numérique.
+	Vous alertez vos supérieurs.
+	Le laboratoire est sécurisé.
+	Les recherches sont classifiées.
+	Le projet est abandonné.
+	Officiellement, rien ne s’est passé.
+	Mais la crise sociale continue.
+	Vous observez les fioles brisées.
+	Elles sont toutes enregistrées dans le dossier numérique.
+	Chaque substance.
+	Chaque quantité.
+	Vous comprenez que vous pouvez reconstituer le mélange exact.
+	Votre responsable vous a ordonné de commencer les expériences.
+	Mais les stocks sont limités.
+	Tout est tracé.
+	Tout est enregistré.
+	Vous avez accès aux données.
+
+	Que décidez vous de faire ?
+
+		1 : Utiliser les dossiers pour créer une solution et neutraliser le poison
+		
+		2 : Cacher certaines informations pour protéger l’État
+	

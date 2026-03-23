@@ -1,0 +1,23 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+La salle de traitement
+	Un bruit soudain retentit.
+	Du verre se brise.
+	Vous vous cachez dans un placard.
+	Silence.
+	Vous sortez.
+	Le sol est couvert de fioles brisées.
+	Les liquides se sont mélangés.
+	Au centre : une souris morte.
+	Vous comprenez.
+	Le mélange est un poison.
+	Capable de tuer les souris mutées.
+
+	Que faites-vous ?
+
+		1 : Garder le poison pour vous
+
+		2 : Informer vos responsables
+
+
+

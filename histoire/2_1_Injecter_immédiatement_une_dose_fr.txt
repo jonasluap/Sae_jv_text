@@ -1,0 +1,15 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+La souris réagit presque immédiatement.
+Elle devient agressive.
+Elle frappe la cage en verre.
+La cage se fissure.
+Vous paniquez.
+Vous fuyez le laboratoire.
+Où allez-vous ?
+&
+où voulez vous allez ?
+
+	1 : dans la salle de traitement : 
+
+	2 : dans la salle de surveillance :

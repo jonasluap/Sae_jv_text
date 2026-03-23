@@ -1,0 +1,26 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Vous récupérez discrètement le reste du mélange.
+
+		Garder le poison pour vous
+		Vous récupérez discrètement le reste du mélange.
+		Vous le cachez dans une fiole secrète.
+		Ce poison a une grande valeur.
+		Vous quittez l’hôpital en courant.
+		Aucune alarme ne se déclenche.
+		Trois jours plus tard, Calais est mise en quarantaine.
+		Des patients tombent malades.
+		Agressivité.
+		Convulsions.
+		Puis la mort.
+		Les caméras montrent des rats partout.
+		Le gouvernement nie tout lien.
+		L’armée boucle la zone.
+		L’hôpital est brûlé.
+		Votre nom apparaît dans les archives.
+		Vous êtes déclaré seul responsable.
+		Le remède n’a jamais existé.
+		Mais la révolution commence.
+
+		FIN
+

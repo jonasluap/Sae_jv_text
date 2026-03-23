@@ -1,0 +1,26 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+You write everything down in the digital file.
+		
+	You alert your superiors.
+	The laboratory is secured.
+	The research is classified.
+	The project is abandoned.
+	Officially, nothing happened.
+	But the social crisis continues.
+	You observe the broken vials.
+	They are all saved in the digital file.
+	Every substance.
+	Every quantity.
+	You realise that you can recreate the exact mixture.
+	Your manager has ordered you to begin the experiments.
+	But stocks are limited.
+	Everything is tracked.
+	Everything is recorded.
+	You have access to the data.
+
+	What do you decide to do?
+
+		1: Use the files to create a solution and neutralise the poison.
+
+		2: Hide certain information to protect the state.

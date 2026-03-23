@@ -1,0 +1,14 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+The mouse responds almost immediatly
+She becomming aggressive
+she hits the glass cage
+You panic
+you flee the laboratory
+Where are you going ?
+
+Where do you want to go ?
+
+	1 : In the treatment room : 
+
+	2 : In the surveillance room :
